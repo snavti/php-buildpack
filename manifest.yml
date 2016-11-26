@@ -108,6 +108,7 @@ dependencies:
   - xcache
   - xdebug
   - xhprof
+  - xmlrpc
   - xsl
   - yaf
   - zip
@@ -174,6 +175,7 @@ dependencies:
   - xcache
   - xdebug
   - xhprof
+  - xmlrpc
   - xsl
   - yaf
   - zip
@@ -240,6 +242,7 @@ dependencies:
   - xcache
   - xdebug
   - xhprof
+  - xmlrpc
   - xsl
   - yaf
   - zip
@@ -306,6 +309,7 @@ dependencies:
   - xcache
   - xdebug
   - xhprof
+  - xmlrpc
   - xsl
   - yaf
   - zip
@@ -354,6 +358,7 @@ dependencies:
   - sockets
   - solr
   - xdebug
+  - xmlrpc
   - xsl
   - yaf
   - zip
@@ -402,6 +407,7 @@ dependencies:
   - sockets
   - solr
   - xdebug
+  - xmlrpc
   - xsl
   - yaf
   - zip
